@@ -1,2 +1,3 @@
 # sql-course
-Introduction to SQL
+
+This is my first coruse in SQL, Introduction to SQL basics
